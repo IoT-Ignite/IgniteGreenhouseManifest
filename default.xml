@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="GreenhouseGateway" fetch="https://github.com/IoT-Ignite/IgniteGreenhouseGateway" />
+	<remote name="GreenhouseEndUser" fetch="https://github.com/IoT-Ignite/IgniteGreenhouse" />
+	<remote name="IgniteRestLib" fetch="https://github.com/IoT-Ignite/IgniteRestClientLibrary" />
+</manifest>
