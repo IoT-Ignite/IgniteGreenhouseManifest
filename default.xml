@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <default revision="master" remote="origin" />
-	<remote name="origin" fetch="https://github.com/IoT-Ignite/IgniteGreenhouseGateway" />
-	<remote name="origin" fetch="https://github.com/IoT-Ignite/IgniteGreenhouse" />
-	<remote name="origin" fetch="https://github.com/IoT-Ignite/IgniteRestClientLibrary" />
+	<remote name="origin" fetch="https://github.com/IoT-Ignite"/>
 	
   <project path="apps/IgniteGreenhouseGateway"
-           name="IoT-Ignite/IgniteGreenhouseGateway.git" remote="origin" />
+           name="IgniteGreenhouseGateway" remote="origin" />
 
   <project path="apps/IgniteGreenhouse"
-           name="IoT-Ignite/IgniteGreenhouse.git" remote="origin" />
+           name="IgniteGreenhouse" remote="origin" />
 
   <project path="libs/IgniteRestClientLibrary"
-           name="IoT-Ignite/IgniteRestClientLibrary.git" remote="origin" />
+           name="IgniteRestClientLibrary" remote="origin" />
 </manifest>
